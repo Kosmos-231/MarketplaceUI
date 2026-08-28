@@ -1,0 +1,10 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.1
+  main.cpp
+  qrc_MarketplaceUI.cpp
+  moc_MarketplaceUI.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 287 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MarketplaceUI.vcxproj -> C:\Code project\MarketplaceUI\x64\Release\MarketplaceUI.exe
