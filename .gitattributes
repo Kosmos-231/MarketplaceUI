@@ -1,0 +1,3 @@
+*.qrc linguist-documentation
+*.ui linguist-documentation
+*.vcxproj* linguist-documentation
