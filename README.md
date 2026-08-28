@@ -10,8 +10,8 @@
 
 ## 💻 Tech Stack
 
-* **Frontend Layout: ** С++, Qt framework. 
-* **Backend Layout: ** Python.
+* **Frontend Layout:** С++, Qt framework. 
+* **Backend Layout:** Python.
 ---
 
 ## 🔧 Local Setup & Installation
